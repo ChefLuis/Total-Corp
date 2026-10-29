@@ -1,0 +1,6 @@
+{
+  "name": "Total Corp",
+  "description": "Plataforma SaaS multiempresa de gestão e agendamento",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
